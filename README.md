@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm VIVEK YADAV</h1>
-<h3 align="center">A Passionate Android Development, IOS Development, XD And Main Is Indian Army.</h3>
+<h3 align="center">A Passionate About To Be Indian Army Officer And Other Hobbies Is Android Development, IOS Development, UI/UX..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekyadavdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="vivekyadavdeveloper" /> </p>
 
@@ -34,4 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivekyadavdeveloper&show_icons=true&locale=en" alt="vivekyadavdeveloper" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekyadavdeveloper&" alt="vivekyadavdeveloper" /></p>
-
