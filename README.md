@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vk662967@gmail.com**
 
-- ⚡ Fun fact **I Spend My Free Time To Playing PC Games & Sometime Try To Learn Something New.**
+- ⚡ Fun Fact **I Spend My Free Time To Playing PC Games & Sometime Try To Learn Something New.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
