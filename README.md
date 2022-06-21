@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm VIVEK </h1>
+<h1 align="center">Hi 👋, I'm Vivek </h1>
 <h3 align="center">A Passionate About To Be Indian Army Officer And Other Hobbies Is Android Development,Web Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekyadavdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="vivekyadavdeveloper" /> </p>
