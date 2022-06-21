@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm VIVEK </h1>
-<h3 align="center">A Passionate About To Be Indian Army Officer And Other Hobbies Is Android Development,Web Development (ReactJs).</h3>
+<h3 align="center">A Passionate About To Be Indian Army Officer And Other Hobbies Is Android Development,Web Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekyadavdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="vivekyadavdeveloper" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vk662967@gmail.com**
 
-- ⚡ Fun Fact **I Spend My Free Time To Playing PC Games & Sometime Try To Learn Something New.**
+- ⚡ Fun Fact **I Spend My Free Time To Playing PC Games.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
