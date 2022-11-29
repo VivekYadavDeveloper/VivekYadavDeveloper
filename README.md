@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter, Jetpack Compose**
 
-- 👨‍💻 All of my projects are available at https://github.com/VivekYadavDeveloper [https://github.com/VivekYadavDeveloper](https://github.com/VivekYadavDeveloper)
+- 👨‍💻 All of my projects are available at [https://github.com/VivekYadavDeveloper](https://github.com/VivekYadavDeveloper)
 
 - 💬 Ask me about **Flutter, Jetpack Compose**
 
