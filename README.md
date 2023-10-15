@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekyadavdeveloper" alt="vivekyadavdeveloper" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Jetpack Compose**
+- 🌱 I’m currently learning **Flutter, Jetpack Compose , Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VivekYadavDeveloper](https://github.com/VivekYadavDeveloper)
 
-- 💬 Ask me about **Flutter, Jetpack Compose**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **vk662967@gmail.com**
 
