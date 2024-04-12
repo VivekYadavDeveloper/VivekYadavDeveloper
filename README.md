@@ -1,5 +1,5 @@
 # 💫 About Me: Vivek Yadav
-🌱 I’m currently learning Flutter, Jetpack Compose , Kotlin<br><br>👨‍💻 All of my projects are available at https://github.com/VivekYadavDeveloper<br><br>💬 Ask me about Flutter<br><br>📫 How to reach me vk662967@gmail.com<br><br>⚡ Fun fact is i spend my free time to playing "PC GAMES.
+🌱 I’m currently learning Flutter, Jetpack Compose.<br><br>👨‍💻 All of my projects are available at https://github.com/VivekYadavDeveloper<br><br>💬 Ask me about Flutter<br><br>📫 How to reach me vk662967@gmail.com<br><br>⚡ Fun fact is i spend my free time to playing "PC GAMES.
 
 
 ## 🌐 Socials:
