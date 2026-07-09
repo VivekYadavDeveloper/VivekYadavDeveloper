@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vivek Yadav</h1>
 <h3 align="center">A passionate mobile app developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekyadavdeveloper" alt="vivekyadavdeveloper" /></a> </p>
 
 - 🔭 I’m currently working on [Bible Project](https://play.google.com/store/apps/details?id=com.create.bible)
 
@@ -17,7 +16,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1lCizyyBVcCwMRvgUJkmzSD4fDAOLpT6T/edit?usp=drive_link&ouid=111144726413811965115&rtpof=true&sd=true](https://docs.google.com/document/d/1lCizyyBVcCwMRvgUJkmzSD4fDAOLpT6T/edit?usp=drive_link&ouid=111144726413811965115&rtpof=true&sd=true)
 
-- ⚡ Fun fact **I Love To Play Pc Games And Watching Tech Videos.**
+- ⚡ Fun fact **I love to play Pc Games, Anime and watching tech videos.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
